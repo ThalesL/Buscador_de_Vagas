@@ -2,9 +2,9 @@
   "_README": "ONE config file drives the whole tracker (scraper + dashboard). Edit it by hand, or generate it from your CV using docs/cv-to-config-prompt.md. After editing, commit it and re-run the workflows. All matching is case-insensitive substring on the JOB TITLE unless noted.",
 
   "profile": {
-    "title": "Environmental / Toxicology Job Tracker",
-    "subtitle": "California · Oregon · Australia",
-    "emoji": "🧪"
+    "title": "Buscador de Vagas",
+    "subtitle": "Rio de Janeiro · Baixada Fluminense · Remoto",
+    "emoji": "🎯​"
   },
 
   "keywords": {
@@ -95,8 +95,7 @@
       "SOC analyst junior"
     ],
     "ziprecruiter": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      
     ],
     "google_jobs": [
       "auxiliar de logística",
@@ -109,27 +108,19 @@
       "SOC analyst junior"
     ],
     "hiring_cafe": [
-      "toxicologist", "environmental scientist", "risk assessment", "exposure scientist",
-      "ecotoxicologist", "microplastics", "water quality scientist", "environmental health scientist"
+      
     ],
     "calcareers": [
-      "toxicologist", "environmental scientist", "risk assessment",
-      "exposure", "water quality", "microplastics", "hazard",
-      "environmental health", "ecologist"
+      
     ],
     "usajobs": [
-      "toxicologist", "environmental protection specialist", "environmental health",
-      "ecotoxicology", "exposure science", "risk assessment",
-      "environmental scientist", "microplastics", "ecologist"
+      
     ],
     "governmentjobs": [
-      "toxicologist", "environmental scientist", "environmental health",
-      "risk assessment", "water quality", "air quality",
-      "hazardous materials", "environmental specialist"
+      
     ],
     "workday": [
-      "toxicologist", "environmental scientist", "risk assessment",
-      "exposure scientist", "environmental health", "water quality"
+      
     ]
   },
 
@@ -145,15 +136,13 @@
       { "location": "Rio de Janeiro, RJ, Brazil",   "country": "Brazil" }
     ],
     "ziprecruiter": [
-      { "location": "California",   "country": "USA" },
-      { "location": "Portland, OR", "country": "USA" },
-      { "location": "Bend, OR",     "country": "USA" }
+      {}
     ],
     "google_jobs": [
       { "location": "Rio de Janeiro, RJ, Brazil",   "country": "Brazil" }
     ],
     "hiring_cafe": [
-      { "location": "United States" }
+      {}
     ],
     "_linkedin_partitions_comment": "Optional. Used by --linkedin-emit-matrix / --linkedin-backfill-partition for parallel backfill. Each state gets one matrix worker per search term. High-volume states can be day-sliced to work around LinkedIn's ~1000 result/query cap. Leave empty to use single-run backfill (--linkedin-backfill).",
     "linkedin_partitions": {
@@ -166,24 +155,53 @@
   },
 
   "location_filter": {
-    "_comment": "Case-insensitive substrings matched against a job's location text. Used to post-filter boards that don't support geo-scoping at the API level: the curated direct-ATS sweep, and NEOGOV/GovernmentJobs.com (a nationwide board). Keep this in sync with your locations.* entries above.",
+    "_comment": "Filtro de localização para vagas no Rio de Janeiro, Região Metropolitana, Baixada Fluminense e oportunidades remotas/híbridas.",
     "terms": [
-      "california", ", ca", "remote", "hybrid",
-      "sacramento", "davis", "west sacramento", "rancho cordova", "elk grove",
-      "roseville", "folsom", "woodland",
-      "bay area", "san francisco", "south san francisco", "oakland", "berkeley",
-      "emeryville", "richmond", "palo alto", "mountain view", "menlo park",
-      "sunnyvale", "santa clara", "san jose", "san mateo", "redwood city",
-      "fremont", "hayward", "concord", "walnut creek", "pleasanton", "livermore",
-      "novato", "san rafael", "vacaville",
-      "los angeles", "long beach", "irvine", "costa mesa", "san diego",
-      "riverside", "pasadena", "santa monica", "torrance", "fountain valley",
-      "santa barbara", "san luis obispo", "fresno", "monterey",
-      "portland, or", "portland, oregon", "bend, or", "bend, oregon", "oregon",
-      "beaverton", "hillsboro", "eugene", "salem, or", "corvallis", "redmond, or",
-      "australia", "sydney", "melbourne", "brisbane", "perth", "adelaide",
-      "canberra", "new south wales", "victoria", "queensland",
-      "western australia", "tasmania"
+      "rio de janeiro",
+      ", rj",
+      "rj, brasil",
+      "rj, brazil",
+      "estado do rio de janeiro",
+      "rio de janeiro state",
+
+      "duque de caxias",
+      "são joão de meriti",
+      "sao joao de meriti",
+      "nova iguaçu",
+      "nova iguacu",
+      "belford roxo",
+      "nilópolis",
+      "nilopolis",
+      "mesquita",
+      "queimados",
+      "japeri",
+      "magé",
+      "mage",
+
+      "niterói",
+      "niteroi",
+      "são gonçalo",
+      "sao goncalo",
+      "itaboraí",
+      "itaborai",
+
+      "baixada fluminense",
+      "região metropolitana do rio de janeiro",
+      "regiao metropolitana do rio de janeiro",
+      "greater rio de janeiro",
+
+      "remote",
+      "remoto",
+      "remota",
+      "home office",
+      "homeoffice",
+      "home-office",
+      "work from home",
+      "hybrid",
+      "híbrido",
+      "hibrido",
+      "híbrida",
+      "hibrida"
     ]
   },
 
@@ -209,36 +227,17 @@
   "employers": {
     "_priority_comment": "Optional. Companies worth a daily 'priority' digest even on a quiet day (case-insensitive substring match on the company name). Leave [] to disable.",
     "priority": [
-      "Ramboll", "Exponent", "Gradient", "ToxStrategies", "Cardno", "Stantec", "Tetra Tech",
-      "ICF International", "Abt Associates", "Eastern Research Group", "Integral Consulting",
-      "Geosyntec", "Arcadis", "AECOM", "Montrose Environmental", "Trinity Consultants", "GHD Group",
-      "Environmental Resources Management", "SLR Consulting", "Wood Environment", "Sciome", "ChemRisk",
-      "Southern California Coastal Water Research Project", "SCCWRP", "San Francisco Estuary Institute",
-      "Silent Spring Institute", "Environmental Defense Fund", "Natural Resources Defense Council",
-      "Environmental Working Group", "Ocean Conservancy", "Pew Charitable Trusts", "Health Effects Institute",
-      "RTI International", "Battelle", "Green Science Policy Institute", "Defend Our Health", "Moore Institute",
-      "Environmental Protection Agency", "California Environmental Protection", "Office of Environmental Health Hazard",
-      "State Water Resources Control", "California Air Resources Board", "Department of Toxic Substances Control",
-      "National Institute of Environmental Health", "Geological Survey", "Procter & Gamble", "Unilever",
-      "Corteva", "Syngenta", "Dow Chemical", "BASF Corporation"
+
     ],
     "_exclude_comment": "Optional. Drop roles from these companies even if the title matches (case-insensitive substring). Used here to remove pharma/drug-development.",
     "exclude": [
-      "pharmaceutical", "pharma ", "therapeutics", "biopharma", "biotech", "biologics", "biosciences",
-      "genomics", "oncolog", "biomedicine", "genentech", "gilead", "pfizer", "merck", "novartis", "abbvie",
-      "regeneron", "moderna", "biogen", "sanofi", "astrazeneca", "takeda", "biomarin", "alnylam", "incyte",
-      "exelixis", "neurocrine", "ionis", "denali", "acadia", "adarx", "genmab", "galapagos", "insitro",
-      "recursion", "cytokinetics", "vertex pharm", "bristol-myers", "bristol myers"
     ]
   },
 
   "priority_topics": {
     "_comment": "Optional. Roles touching these get a gold ★ + a 'Priority topics' filter on the dashboard. [name, regex] pairs.",
     "terms": [
-      ["microplastics", "microplastic|nanoplastic|microfiber"],
-      ["ecotoxicology", "ecotoxicolog"],
-      ["endocrine-disrupting chemicals", "endocrine[\\s-]?disrupt|\\bedcs?\\b"],
-      ["R / Shiny", "\\brshiny\\b|\\br[\\s-]?shiny\\b|shiny\\s*(?:app|dashboard|server)|\\bshiny\\b"]
+      []
     ]
   },
 
