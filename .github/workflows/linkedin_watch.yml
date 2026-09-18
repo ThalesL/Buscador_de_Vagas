@@ -39,17 +39,20 @@ jobs:
           python-version: "3.11"
 
       - name: Scrape LinkedIn (last 1h, or 30-day backfill)
-        run: |
-          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
-            python scrape_jobs.py --linkedin-backfill
-          else
-            python scrape_jobs.py --linkedin-only
-          fi
+        timeout-minutes: 10
         env:
+          PYTHONUNBUFFERED: "1"
           PUSHOVER_TOKEN: ${{ secrets.PUSHOVER_TOKEN }}
           PUSHOVER_USER: ${{ secrets.PUSHOVER_USER }}
           NOTIFY_MIN_FIT: ${{ vars.NOTIFY_MIN_FIT }}
 
+        run: |
+          if [ "${{ github.event.inputs.backfill }}" = "true" ]; then
+            python -u scrape_jobs.py --linkedin-backfill
+          else
+            python -u scrape_jobs.py --linkedin-only
+          fi
+          
       - name: Record workflow run
         run: |
           python - <<'EOF'
