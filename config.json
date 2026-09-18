@@ -42,7 +42,7 @@
       "blue team",
       "iam",
       "grc"
-    ]
+    ],
     "_exclude_comment": "Titles containing any of these are dropped (junior/off-field roles).",
     "exclude": [
       "senior",
