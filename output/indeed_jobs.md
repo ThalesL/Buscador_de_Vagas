@@ -1,5 +1,5 @@
-# 🟦 Indeed — Environmental / Toxicology Roles
-*Last updated: 2026-09-18 16:10 UTC*
+# 🟦 Indeed — Buscador de Vagas Roles
+*Last updated: 2026-09-18 17:02 UTC*
 
 **9 new role(s)** since last run · 9 total in last 24h
 
