@@ -1,44 +1,7 @@
 {
-  "scraped_at": "2026-09-18 23:37 UTC",
-  "total": 2,
+  "scraped_at": "2026-09-19 01:40 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Aro Contabil Ltda",
-      "title": "Auxiliar de Expedição",
-      "location": "Rio de Janeiro, RJ, BR",
-      "url": "https://br.indeed.com/viewjob?jk=0fc1a8fdb07859de",
-      "direct_url": "https://arocontabilltda.pandape.com.br/Detail/3730432?ov=5&xtor=AL-366332663&source=Indeed&utm_source=indeed&utm_medium=referral&utm_campaign=feed&utm_term=organic&utm_content=ats",
-      "company_url": "https://br.indeed.com/cmp/Aro-Contabil-Ltda-1",
-      "date_posted": "2026-09-17",
-      "description": "* Separação e conferência de materiais e pedidos;\n* Organização dos produtos para expedição;\n* Carga e descarga de materiais;\n* Movimentação e acondicionamento de caixas e volumes;\n* Conferência de quantidades e identificação dos pedidos;\n* Preparação de pedidos para entrega/transportadora;\n* Organização e limpeza do setor de Expedição;\n* Apoio no recebimento e armazenamento de materiais;\n* Auxílio no controle e inventário de estoque, quando necessário;\n* Cumprimento dos procedimentos de segurança e organização do setor;\n* Demais atividades operacionais relacionadas à rotina da Expedição.\n\n  \n\nEscolaridade Mínima: Ensino Médio (2º Grau)\n\n\n  \n\n* Vale\\-transporte\n* Vale\\-alimentação\n* Seguro de Vida",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "São Geraldo Sevices",
-      "title": "Ajudante de Carga e Descarga",
-      "location": "São Gonçalo, RJ, BR",
-      "url": "https://br.indeed.com/viewjob?jk=233180f67326020b",
-      "direct_url": "https://saogeraldosevices.pandape.com.br/Detail/3731262?ov=5&xtor=AL-366332663&source=Indeed&utm_source=indeed&utm_medium=referral&utm_campaign=feed&utm_term=organic&utm_content=ats",
-      "company_url": "https://br.indeed.com/cmp/S%C3%A3o-Geraldo-Sevices",
-      "date_posted": "2026-09-17",
-      "description": "Realizar carga e descarga de mercadorias, materiais e equipamentos de forma segura e eficiente. Auxiliar na movimentação, separação e organização dos produtos no estoque ou área de armazenamento. Conferir volumes e quantidades durante os processos de recebimento e expedição. Apoiar o acondicionamento e a distribuição de materiais conforme orientação da liderança. Zelar pela integridade dos produtos durante o transporte e manuseio. Auxiliar na organização e limpeza das áreas de carga, descarga e armazenagem. Seguir os procedimentos operacionais e normas de segurança do trabalho. Apoiar outras atividades operacionais relacionadas à logística e movimentação de materiais.\n  \n\nEscolaridade Mínima: Ensino Médio (2º Grau)\n\n\n  \n\n* Vale transporte\n* Vale alimentação\n* Plano odontológico\n* Adicional noturno",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
