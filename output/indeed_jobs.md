@@ -1,25 +1,29 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-09-22 19:15 UTC*
+*Last updated: 2026-09-22 22:26 UTC*
 
-**4 new role(s)** since last run · 5 total in last 24h
+**5 new role(s)** since last run · 9 total in last 24h
 
-### [Operador logistico I - Ipanema](https://br.indeed.com/viewjob?jk=f00cde95e87f2fd5) — AMOEDO
+### [Auxiliar Logístico | Estoquista](https://br.indeed.com/viewjob?jk=8f6324508044827e) — OH BOY! SACADA
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-22
 
-### [ESTOQUISTA](https://br.indeed.com/viewjob?jk=5ca066fb34519e7a) — GRUPO LAMEGO
+### [Estoquista - RAMO ALIMENTICIO](https://br.indeed.com/viewjob?jk=b5d27d9d4f6b43fa) — Padaria Doce Jardim LTDA
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-22
 
-### [ESTOQUISTA DE LOJA](https://br.indeed.com/viewjob?jk=48a15b01564c390a) — Unknown
-- 📍 **Location:** Zona Norte do Rio de Janeiro, RJ, BR
+### [Estoquista - Botafogo](https://br.indeed.com/viewjob?jk=fa16050296f9920d) — BULLGUER
+- 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-22
 
-### [Estoquista - Diversos benefícios - (Grupo Zanze)](https://br.indeed.com/viewjob?jk=df134a182fdd9bba) — Caderno Nacional
-- 📍 **Location:** Niterói, RJ, BR
+### [EXTRA NATAL - Estoquista | TRACK&FIELD | Shopping Leblon](https://br.indeed.com/viewjob?jk=59635f3300da79ec) — Unknown
+- 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-22
+
+### [Estoquista - Bangu](https://br.indeed.com/viewjob?jk=eefba77620b19056) — BAGAGGIO
+- 📍 **Location:** Nova Iguaçu, RJ, BR
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-22
