@@ -1,10 +1,15 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-09-24 00:55 UTC*
+*Last updated: 2026-09-24 06:47 UTC*
 
-**1 new role(s)** since last run · 16 total in last 24h
+**2 new role(s)** since last run · 13 total in last 24h
 
-### [Auxiliar de Logística](https://br.indeed.com/viewjob?jk=66a3ab0b06c7df11) — Empório do Sol
+### [ESTOQUISTA (Criáz Consultoria)](https://br.indeed.com/viewjob?jk=ef57d479295fcd38) — Jobbol
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-23
+
+### [CAIXA/ VENDEDOR /ESTOQUISTA](https://br.indeed.com/viewjob?jk=4a56696d90f9193a) — LEVANY
+- 📍 **Location:** Rio de Janeiro, RJ, BR
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-09-23
