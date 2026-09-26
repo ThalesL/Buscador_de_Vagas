@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-09-25 22:50 UTC",
+  "scraped_at": "2026-09-26 02:03 UTC",
   "total": 7,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "LEVCARGA TRANSPORTE E LOGISTICA LTDA",
@@ -130,24 +130,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobbol",
-      "title": "ESTOQUISTA - Barra da Tijuca ou Jacarepaguá (Xemen Saúde)",
-      "location": "Rio de Janeiro, RJ, BR",
-      "url": "https://br.indeed.com/viewjob?jk=648fa417620c7cdf",
-      "direct_url": "https://www.jobbol.com.br/vaga/29387063105",
-      "company_url": "https://br.indeed.com/cmp/Jobbol",
-      "date_posted": "2026-09-25",
-      "description": "Empresa de Prestação de Serviços na Área da Saúde busca profissional Estoquista em Rio de Janeiro (Barra da Tijuca ou Jacarepaguá).\n\n\nA Xemen Saúde é uma empresa dedicada ao fornecimento de serviços na área da saúde. Com foco na qualidade e na inovação, busca atender às necessidades de seus clientes de forma eficiente.\n\n**Responsabilidades:**\n\n\nRecebimento, conferência, organização e controle de materiais médico\\-hospitalares no estoque. Separação e preparação de materiais para envio e procedimentos. Gestão e acompanhamento de materiais consignados. Apoio nos processos de compras e reposição de materiais. Contato e acompanhamento por e\\-mail com clientes, hospitais, fornecedores e equipe interna. Atualização e controle de informações em planilhas e sistemas de gestão como Joinner, Viman e similares.\n\n\nAtuações anteriores em Armazenador, Assistente de Estoque, Operador de Armazém ou Controlador de Estoque podem indicar afinidade com algumas das atividades desta posição.\n\n\nEnsino superior completo Necessário experiência\n  \n\n**Remuneração e Benefícios:*** Salário: Faixa salarial será informada na entrevista.\n* Plano Médico \\|Vale Alimentação \\|Vale Refeição \\|Vale Transporte\n\n**Informações adicionais:*** \\#VagaUrgente\n* Contrato: Efetivo \\- Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
