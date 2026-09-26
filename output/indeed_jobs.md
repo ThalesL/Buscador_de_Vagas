@@ -1,6 +1,16 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-09-26 21:37 UTC*
+*Last updated: 2026-09-26 23:56 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-No new roles since the last run.
+### [CONFERENTE - Xerém (Supermercado Rio Sul)](https://br.indeed.com/viewjob?jk=970222b2bf4c075a) — Jobbol
+- 📍 **Location:** Duque de Caxias, RJ, BR
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
+
+### [ESTOQUISTA - Laranjeiras (Lamego Deli & Delícias)](https://br.indeed.com/viewjob?jk=b738e558a9806081) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, BR
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-26
