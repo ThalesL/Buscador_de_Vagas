@@ -1,21 +1,19 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-01 00:11 UTC*
+*Last updated: 2026-10-01 06:35 UTC*
 
-**3 new role(s)** since last run · 12 total in last 24h
+**3 new role(s)** since last run · 14 total in last 24h
 
-### [Estoquista - Extra Natal Ilha do Governador RJ Clube Melissa](https://br.indeed.com/viewjob?jk=a92f90153f0ffa3e) — BERGAM RECURSOS HUMANOS
+### [Auxiliar de Logística](https://br.indeed.com/viewjob?jk=3b3caa4499671038) — NAVARRO DISTRIBUIDORA DE MEDICAMENTOS
+- 📍 **Location:** Queimados, RJ, BR
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-09-30
+
+### [Estoquista/Repositor](https://br.indeed.com/viewjob?jk=8680314fd9fefa24) — HAVAIANAS
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Auxiliar Operacional](https://br.indeed.com/viewjob?jk=70e7f84a476e6129) — Sig Multimarcas
-- 📍 **Location:** Nova Iguaçu, RJ, BR
+### [Estoquista (Alimentos e Bebidas) - Paineiras Corcovado](https://br.indeed.com/viewjob?jk=aaff35651f588e02) — Grupo Cataratas
+- 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
-
-### [ESTOQUISTA (Atacadão Mesquita)](https://br.indeed.com/viewjob?jk=6b14a8c018217b2c) — Jobbol
-- 📍 **Location:** Mesquita, RJ, BR
-- **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-09-30
