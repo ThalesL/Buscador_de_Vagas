@@ -1,15 +1,21 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-01 20:34 UTC*
+*Last updated: 2026-10-02 00:16 UTC*
 
-**2 new role(s)** since last run · 6 total in last 24h
+**3 new role(s)** since last run · 8 total in last 24h
 
-### [AUXILIAR DE DEPÓSITO - Engenho de Dentro (Grupo Kriativa)](https://br.indeed.com/viewjob?jk=ba90b363b2a09828) — Jobbol
+### [ESTOQUISTA - Vigário Geral (Primu's Rio)](https://br.indeed.com/viewjob?jk=2a1f6d2bdf3a1999) — Jobbol
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-09-30
+- 🕒 **Posted:** 2026-10-01
 
-### [Estoquista - Artwalk Barra Shopping](https://br.indeed.com/viewjob?jk=99c41ef4a2881f47) — Artwalk
+### [Estoquista](https://br.indeed.com/viewjob?jk=8a177ba4989ac02d) — HireUp Consulting
 - 📍 **Location:** Rio de Janeiro, RJ, BR
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-01
+
+### [ESTOQUISTA - Centro (Rio Belleza)](https://br.indeed.com/viewjob?jk=c55a183bbe02aa0d) — Jobbol
+- 📍 **Location:** São João de Meriti, RJ, BR
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-09-30
