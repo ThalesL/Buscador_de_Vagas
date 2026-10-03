@@ -1,9 +1,9 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-02 20:10 UTC*
+*Last updated: 2026-10-03 00:01 UTC*
 
-**1 new role(s)** since last run · 7 total in last 24h
+**1 new role(s)** since last run · 4 total in last 24h
 
-### [Estoquista](https://br.indeed.com/viewjob?jk=a486ea2ca457f2e7) — HIRE UP
-- 📍 **Location:** Rio de Janeiro, RJ, BR
+### [OPERADOR LOGISTICO I](https://br.indeed.com/viewjob?jk=5fbeeb44e9ff9e80) — Grupo Petrópolis
+- 📍 **Location:** Petrópolis, RJ, BR
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-01
+- 🕒 **Posted:** 2026-10-02
