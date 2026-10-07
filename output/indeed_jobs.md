@@ -1,20 +1,15 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-07 06:33 UTC*
+*Last updated: 2026-10-07 20:48 UTC*
 
-**3 new role(s)** since last run · 9 total in last 24h
+**2 new role(s)** since last run · 5 total in last 24h
 
-### [AUXILIAR DE EXPEDIÇÃO](https://br.indeed.com/viewjob?jk=d074656735f4fb8d) — Unknown
-- 📍 **Location:** Rio Bonito, RJ, BR
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
-
-### [Operador Logístico](https://br.indeed.com/viewjob?jk=5c9a7684ca9280fa) — Parceria Serviços Temporários Ltda.
+### [ajudante de carga e descarga](https://br.indeed.com/viewjob?jk=09592d7ecbc74cd2) — Maxi Serviços Ltda
 - 📍 **Location:** Duque de Caxias, RJ, BR
-- 💰 **Salary:** $1730–$1735/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-07
 
-### [Estoquista - Botafogo](https://br.indeed.com/viewjob?jk=1169581a061fd244) — BULLGUER
-- 📍 **Location:** Rio de Janeiro, RJ, BR
+### [Estoquista](https://br.indeed.com/viewjob?jk=5af073f5201efe3a) — Unknown
+- 📍 **Location:** Ilha do Governador, RJ, BR
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-06
+- 🕒 **Posted:** 2026-10-07
