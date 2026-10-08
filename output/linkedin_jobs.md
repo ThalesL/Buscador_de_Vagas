@@ -1,6 +1,8 @@
 # 🔥 LinkedIn — Buscador de Vagas Roles
-*Last updated: 2026-10-07 20:39 UTC*
+*Last updated: 2026-10-08 01:02 UTC*
 
-**0 new role(s)** since last run · 0 total in last 1h
+**1 new role(s)** since last run · 1 total in last 1h
 
-No new roles since the last run.
+### [Estoquista](https://www.linkedin.com/jobs/view/4475732092/) — Alife Nino
+- 📍 **Location:** Greater Rio de Janeiro
+- 🕒 **Posted:** 2026-10-08
