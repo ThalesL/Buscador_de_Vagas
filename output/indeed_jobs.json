@@ -1,26 +1,7 @@
 {
-  "scraped_at": "2026-10-11 19:44 UTC",
-  "total": 1,
+  "scraped_at": "2026-10-11 23:13 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Star Brink Brinquedos",
-      "title": "Estoquista/Repositor",
-      "location": "São Gonçalo, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=219573a3d092364e",
-      "direct_url": "",
-      "company_url": "https://br.indeed.com/cmp/Star-Brink-Brinquedos",
-      "date_posted": "2026-10-10",
-      "description": "**Estoquista – Loja de Brinquedos | Shopping**\n\n**Não precisa ter experiência!** Se você é uma pessoa organizada e responsável, venha fazer parte da nossa equipe de brinquedos, no shopping. Você recebe treinamento.\n\n**Atividades**\n\n* Receber mercadorias e conferir os produtos com a nota fiscal\n* Armazenar e organizar os produtos no estoque\n* Repor os produtos na loja, com apoio da equipe\n* Registrar entradas e saídas no sistema\n* Participar da contagem e do inventário do estoque\n* Manter o estoque limpo, organizado e seguro\n* Cumprir as normas de segurança do trabalho\n\n**Jornada**\n\n* Horário: 14:00 às 22:00, com intervalo para refeição\n* Escala de shopping, incluindo fins de semana e feriados, conforme a convenção coletiva e a legislação\n\n**Perfil que buscamos**\n\n* Pessoa organizada, atenta e responsável\n* Capacidade de trabalhar em equipe\n* Vontade de aprender e de crescer profissionalmente\n* Ensino médio completo\n* Maior de 18 anos\n\n**Diferenciais**\n\n* Experiência com estoque, recebimento de mercadorias ou reposição\n* Conhecimento básico de sistema de controle de estoque\n* Gosto por brinquedos e pelo universo infantil\n\n**Oferecemos**\n\n* Salário conforme a convenção coletiva da categoria\n* Vale-transporte e cesta básica\n* Treinamento e acompanhamento na função\n\nTipo de vaga: Tempo integral, Efetivo CLT\n\nPagamento: R$1.720,00 - R$2.000,00 por mês\n\nBenefícios:\n\n* Vale-transporte\n\nLocal do trabalho: Presencial",
-      "salary": "$1720–$2000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
