@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-11 02:14 UTC",
-  "total": 11,
-  "new_count": 0,
+  "scraped_at": "2026-10-11 09:20 UTC",
+  "total": 9,
+  "new_count": 2,
   "jobs": [
     {
       "company": "Caderno Nacional",
@@ -58,14 +58,14 @@
       "ats": "Indeed"
     },
     {
-      "company": "Jobbol",
-      "title": "ESTOQUISTA - Sem experiência (Grupo Kriativa)",
-      "location": "Duque de Caxias, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=2975b45a0046a040",
-      "direct_url": "https://www.jobbol.com.br/vaga/29387136664",
-      "company_url": "https://br.indeed.com/cmp/Jobbol",
-      "date_posted": "2026-10-10",
-      "description": "Consultoria de Recursos Humanos busca profissional Estoquista em Duque de Caxias.\n\nO Grupo Kriativa é especializado em soluções de mão de obra para empresas, atuando em consultoria nas áreas de RH e Vendas. O objetivo da Kriativa é aumentar a produtividade das suas empresas clientes e diminuir seu custo, através da contratação correta.\n\n**Responsabilidades:**\n\nReceber, conferir e organizar mercadorias no estoque. Controlar quantidades, modelos, tamanhos, cores e condições dos produtos. Separar e etiquetar mercadorias para reposição, pedidos e atendimento à equipe de vendas. Realizar contagens, inventários e controles de estoque. Identificar e comunicar divergências, faltas, excessos ou produtos com defeito. Auxiliar na carga e descarga de mercadorias. Manter o estoque limpo, organizado e adequado para armazenamento e acesso.\n\nAtuações anteriores em Armazenador, Assistente de Estoque, Operador de Armazém ou Controlador de Estoque podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino médio completo Sem experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n\n* Vale Refeição\n* Vale Transporte\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo integral\n* Jornada: Das 08:00 às 17:48.",
+      "company": "Caderno Nacional",
+      "title": "Conferente - Diversos benefícios - (Rio Sul Supermercados)",
+      "location": "Rio de Janeiro, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=0c91e048eaa8070d",
+      "direct_url": "https://cadernonacional.com.br/vagas/conferente/87005732?source=Indeed",
+      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
+      "date_posted": "2026-10-11",
+      "description": "Conferente - Realizar atividades inerentes à função. Requisitos: experiência na função. Regime de contratação: CLT. Horário de trabalho: a combinar.\n  \n  \n**Modelo de trabalho:** presencial. Local: Xerém RJ.",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
@@ -95,13 +95,13 @@
     },
     {
       "company": "Caderno Nacional",
-      "title": "Estoquista - Candidatura imediata - (Garage Rio)",
+      "title": "Estoquista - Diversos benefícios - (O2 Distribuidora)",
       "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=429b340d8f3e6ebd",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87015969?source=Indeed",
+      "url": "https://br.indeed.com/viewjob?jk=4a701e67185a828f",
+      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87020419?source=Indeed",
       "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-10-10",
-      "description": "Estoquista - Boa comunicação verbal e escrita. • Ser proativo. • Ser organizado. • Ter simpatia.\n  \n  \n\n* Ter experiência comprovada em carteira de trabalho.",
+      "date_posted": "2026-10-11",
+      "description": "Estoquista - 1 vaga. Contratação CLT. Salário a combinar + benefícios. Horário das 08h às 18h. Perfil: organização, agilidade, responsabilidade e comprometimento. Atividades: receber mercadorias, armazenar produtos e manter o estoque organizado, realizar o controle das mercadorias e movimentar os itens conforme as necessidades. Escolaridade, cursos e tempo mínimo de experiência não informados. Local: Jacarezinho, Rio de Janeiro.\n  \n  \n**Salário:** A combinar",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
@@ -164,16 +164,18 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
-    },
+    }
+  ],
+  "new_jobs": [
     {
       "company": "Caderno Nacional",
-      "title": "Estoquista - Diversos benefícios - (Garage Rio)",
+      "title": "Conferente - Diversos benefícios - (Rio Sul Supermercados)",
       "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=6f8953c6ff20d3ff",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87007548?source=Indeed",
+      "url": "https://br.indeed.com/viewjob?jk=0c91e048eaa8070d",
+      "direct_url": "https://cadernonacional.com.br/vagas/conferente/87005732?source=Indeed",
       "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-10-10",
-      "description": "**Estoquista - Requisitos:** Boa comunicação verbal e escrita.; Ser proativo.; Ser organizado.; Ter simpatia.; Ter experiência comprovada em carteira de trabalho.",
+      "date_posted": "2026-10-11",
+      "description": "Conferente - Realizar atividades inerentes à função. Requisitos: experiência na função. Regime de contratação: CLT. Horário de trabalho: a combinar.\n  \n  \n**Modelo de trabalho:** presencial. Local: Xerém RJ.",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
@@ -185,13 +187,13 @@
     },
     {
       "company": "Caderno Nacional",
-      "title": "Estoquista - Diversos benefícios - (Espaço Rubro Negro)",
+      "title": "Estoquista - Diversos benefícios - (O2 Distribuidora)",
       "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=7b8deeae48204f14",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87006952?source=Indeed",
+      "url": "https://br.indeed.com/viewjob?jk=4a701e67185a828f",
+      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87020419?source=Indeed",
       "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-10-10",
-      "description": "Estoquista - Realizar atividades inerentes à função. Requisitos: experiência no cargo. Salário: a combinar. Benefícios: a combinar.\n  \n  \n**Regime de contratação:** a combinar. Horário de trabalho: a combinar. Modelo de trabalho: presencial. Local: Carioca Shopping.\n  \n  \nEnviar currículo via e-mail, informando o nome da vaga desejada no assunto.",
+      "date_posted": "2026-10-11",
+      "description": "Estoquista - 1 vaga. Contratação CLT. Salário a combinar + benefícios. Horário das 08h às 18h. Perfil: organização, agilidade, responsabilidade e comprometimento. Atividades: receber mercadorias, armazenar produtos e manter o estoque organizado, realizar o controle das mercadorias e movimentar os itens conforme as necessidades. Escolaridade, cursos e tempo mínimo de experiência não informados. Local: Jacarezinho, Rio de Janeiro.\n  \n  \n**Salário:** A combinar",
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
@@ -201,6 +203,5 @@
       "emails": "",
       "ats": "Indeed"
     }
-  ],
-  "new_jobs": []
+  ]
 }
