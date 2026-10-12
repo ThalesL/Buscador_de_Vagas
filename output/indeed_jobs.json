@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-12 02:40 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-12 09:48 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Caderno Nacional",
+      "title": "Estoquista - Diversos benefícios - (South & Co)",
+      "location": "Itaguaí, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=85c2b5468b7ce92f",
+      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87008349?source=Indeed",
+      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
+      "date_posted": "2026-10-12",
+      "description": "Estoquista - Recebimento, conferência, organização e reposição de mercadorias. Requisitos: Experiência no cargo. Modelo de trabalho: Presencial.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Caderno Nacional",
+      "title": "Estoquista - Diversos benefícios - (South & Co)",
+      "location": "Itaguaí, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=85c2b5468b7ce92f",
+      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87008349?source=Indeed",
+      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
+      "date_posted": "2026-10-12",
+      "description": "Estoquista - Recebimento, conferência, organização e reposição de mercadorias. Requisitos: Experiência no cargo. Modelo de trabalho: Presencial.",
+      "salary": "",
+      "salary_source": "",
+      "salary_currency": "",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
