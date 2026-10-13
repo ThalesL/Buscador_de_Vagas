@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-13 03:13 UTC",
-  "total": 5,
-  "new_count": 1,
+  "scraped_at": "2026-10-13 11:10 UTC",
+  "total": 4,
+  "new_count": 0,
   "jobs": [
     {
       "company": "FLIMA CONSULTORIA, TECNOLOGIA E SERVICOS INOVA SIMPLES (I.S.)",
@@ -74,44 +74,7 @@
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
-    },
-    {
-      "company": "Caderno Nacional",
-      "title": "Estoquista - Diversos benefícios - (Grupo Simão)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=b77edc0a363e9319",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87005772?source=Indeed",
-      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-10-12",
-      "description": "Estoquista - Realizar atividades inerentes à função. Requisitos: experiência na função e morar próximo. Horário de trabalho: a combinar. Modelo de trabalho: presencial.\n  \n  \nEnviar currículo via e-mail informando no assunto o nome do local e da vaga desejada.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Jobbol",
-      "title": "ESTOQUISTA (Drogarias Riofarma)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=d4749e6eb035a757",
-      "direct_url": "https://www.jobbol.com.br/vaga/29387140255",
-      "company_url": "https://br.indeed.com/cmp/Jobbol",
-      "date_posted": "2026-10-13",
-      "description": "Rede de Farmácias busca profissional Estoquista em Rio de Janeiro.\n\nRiofarma é uma rede de drogarias com forte presença na zona sul do Rio de Janeiro, oferecendo medicamentos, produtos de beleza e bem-estar em lojas físicas e no e-commerce. Atua no varejo farmacêutico com foco em preços competitivos, conveniência e atendimento de proximidade aos clientes da região.\n\n**Responsabilidades:**\n\nReceber, conferir e organizar mercadorias no estoque. Controlar a entrada e saída de produtos, mantendo registros atualizados. Realizar a separação e preparação de materiais para expedição. Manter a organização e limpeza do ambiente de estoque.\n\nAtuações anteriores em Armazenador, Assistente de Estoque, Operador de Armazém ou Controlador de Estoque podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino médio completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Benefícios a combinar\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Efetivo - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
