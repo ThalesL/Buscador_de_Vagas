@@ -1,40 +1,33 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-15 06:31 UTC*
+*Last updated: 2026-10-15 19:27 UTC*
 
-**6 new role(s)** since last run · 12 total in last 24h
+**5 new role(s)** since last run · 13 total in last 24h
 
-### [AJUDANTE DE CAMINHÃO - Recreio dos Bandeirantes - Sem experiência (Os Carvalhos do Recreio Home Center)](https://br.indeed.com/viewjob?jk=5b00c5698f9fea5e) — Jobbol
+### [AUXILIAR DE DEPÓSITO](https://br.indeed.com/viewjob?jk=fe27a1ed7cebef17) — AMOEDO
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-15
+
+### [OPERADOR LOGÍSTICO I - ITAIPÚ](https://br.indeed.com/viewjob?jk=d67ec50364947b13) — AMOEDO
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-15
+
+### [|LOJAS RENNER| Auxiliar de Expedição - Coloque o Nome da Loja e Cidade Nesse Formato](https://br.indeed.com/viewjob?jk=70739cd0da04d298) — Lojas Renner
+- 📍 **Location:** Niterói, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-15
+
+### [Estoquista](https://br.indeed.com/viewjob?jk=06d8c5879d3d61c8) — LEDO ATACADAO E BAZAR
+- 📍 **Location:** Centro, RJ, Brazil
+- 💰 **Salary:** $1712/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-15
 
-### [Carga e descarga de caminhão - Botafogo - Salário 2000,00](https://br.indeed.com/viewjob?jk=89b27759ea2eeb17) — Supermercados Zona Sul
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-15
-
-### [Estoquista PCD São Cristovão](https://br.indeed.com/viewjob?jk=eb73c6411a7d5c0e) — AVIATOR
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2000–$2200/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-15
-
-### [ESTOQUISTA - Méier - Sem experiência (Tapeçaria Rainha Santa)](https://br.indeed.com/viewjob?jk=17c1fd5766684c97) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-15
-
-### [ESTOQUISTA - Cachambi (Santa Lolla)](https://br.indeed.com/viewjob?jk=6452261557447ff9) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+### [EXTRA NATAL - Estoquista](https://br.indeed.com/viewjob?jk=06980369139e7e3f) — LOJAS BALIX
+- 📍 **Location:** Duque de Caxias, RJ, Brazil
+- 💰 **Salary:** $1800–$1960/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-10-15
-
-### [ESTOQUISTA - Barra da Tijuca (Lenny Niemeyer)](https://br.indeed.com/viewjob?jk=20915c658970102e) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- **Job type:** contract
 - 🕒 **Posted:** 2026-10-15
