@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-10-18 01:34 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-10-18 06:38 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "Caderno Nacional",
+      "title": "Conferente de Carga e Descarga - Diversos benefícios - (Empresa E-Commerce/Loja Virtual de Venda de Móveis e Colchões)",
+      "location": "Rio de Janeiro, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=c879ed1f256570c2",
+      "direct_url": "https://cadernonacional.com.br/vagas/conferente-de-carga-e-descarga/87041209?source=Indeed",
+      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
+      "date_posted": "2026-10-18",
+      "description": "**Conferente de Carga e Descarga - Descrição da Vaga:** Realizar a conferência do recebimento das compras dos fornecedores e a entrega das mercadorias dos produtos comercializados pela empresa; fiscalizar para prevenir possíveis danos aos produtos, verificando em toda carga e descarga se estes não estão danificados; realizar a separação dos produtos e materiais a serem expedidos de venda; manter o estoque e o armazenamento das mercadorias organizados, para facilitar a movimentação, manuseio, identificação e principalmente o bom estado e qualidade dos produtos; fazer a triagem de mercadorias danificadas e posterior embalagem; separar os pedidos emitidos pelo sistema, estando devidamente identificados e com a nota fiscal conferida e anexada às mercadorias, além de separar e embalar as mercadorias para envio aos correios. Requisitos: Ter conhecimento de manuseio de sistema operacional para entradas e saídas das notas fiscais; possuir segurança sobre as informações transmitidas com relação às características, validade, aparência e relações qualitativas e quantitativas da peça ou produto. Formação e experiências desejáveis: Ensino médio completo, será diferencial concluído/cursando em Logística e/ou áreas afins; experiência mínima de 06 meses a 01 ano na função. Local: Penha - Rio de Janeiro. Benefícios: Plano Refeição no local, Plano de Saúde, Plano Assim Odontológico, Auxílio Natalidade, Plano adicional por tempo de serviço, Auxílio Funeral, Convênio SESC, Vale Transporte.\n  \n  \n**Salário:** R$ 1.950,00",
+      "salary": "$1950/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "Caderno Nacional",
+      "title": "Conferente de Carga e Descarga - Diversos benefícios - (Empresa E-Commerce/Loja Virtual de Venda de Móveis e Colchões)",
+      "location": "Rio de Janeiro, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=c879ed1f256570c2",
+      "direct_url": "https://cadernonacional.com.br/vagas/conferente-de-carga-e-descarga/87041209?source=Indeed",
+      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
+      "date_posted": "2026-10-18",
+      "description": "**Conferente de Carga e Descarga - Descrição da Vaga:** Realizar a conferência do recebimento das compras dos fornecedores e a entrega das mercadorias dos produtos comercializados pela empresa; fiscalizar para prevenir possíveis danos aos produtos, verificando em toda carga e descarga se estes não estão danificados; realizar a separação dos produtos e materiais a serem expedidos de venda; manter o estoque e o armazenamento das mercadorias organizados, para facilitar a movimentação, manuseio, identificação e principalmente o bom estado e qualidade dos produtos; fazer a triagem de mercadorias danificadas e posterior embalagem; separar os pedidos emitidos pelo sistema, estando devidamente identificados e com a nota fiscal conferida e anexada às mercadorias, além de separar e embalar as mercadorias para envio aos correios. Requisitos: Ter conhecimento de manuseio de sistema operacional para entradas e saídas das notas fiscais; possuir segurança sobre as informações transmitidas com relação às características, validade, aparência e relações qualitativas e quantitativas da peça ou produto. Formação e experiências desejáveis: Ensino médio completo, será diferencial concluído/cursando em Logística e/ou áreas afins; experiência mínima de 06 meses a 01 ano na função. Local: Penha - Rio de Janeiro. Benefícios: Plano Refeição no local, Plano de Saúde, Plano Assim Odontológico, Auxílio Natalidade, Plano adicional por tempo de serviço, Auxílio Funeral, Convênio SESC, Vale Transporte.\n  \n  \n**Salário:** R$ 1.950,00",
+      "salary": "$1950/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
