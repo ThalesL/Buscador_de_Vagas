@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-19 20:43 UTC",
+  "scraped_at": "2026-10-19 23:58 UTC",
   "total": 3,
-  "new_count": 3,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Viton 44 Industria Comércio e Exportação de Alimentos LTDA",
@@ -58,60 +58,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Viton 44 Industria Comércio e Exportação de Alimentos LTDA",
-      "title": "Conferente",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=3e49ac9d5c1661df",
-      "direct_url": "",
-      "company_url": "https://br.indeed.com/cmp/Viton-44-Industria-Com%C3%A9rcio-E-Exporta%C3%A7%C3%A3o-De-Alimentos-Ltda",
-      "date_posted": "2026-10-19",
-      "description": "Conferir mercadoria de entrada e saída e realiza a separação de carga, físico e através do formulário de pedido;\n\nConferir se os documentos liberados para o motorista estão corretos e liberar o mesmo para retirada da nota fiscal;\n\nAuxiliar na contagem do estoque físico, quando necessário;\n\nAuxiliar no controle da balança, quando necessário;\n\nAuxiliar no controle de pallets e reforça o stretch, quando necessário.\n\nPagamento: R$1.621,00 - R$2.103,00 por mês\n\nBenefícios:\n\n* Assistência médica\n* Assistência odontológica\n* Seguro de vida\n* Vale-transporte\n\nLocal do trabalho: Presencial",
-      "salary": "$1621–$2103/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "BFW Group",
-      "title": "ESTOQUISTA JR",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=f0b4218db617e436",
-      "direct_url": "https://join.com/companies/bfw-group/16848650-estoquista-jr?pid=a13795120131dbe48464",
-      "company_url": "https://br.indeed.com/cmp/Bfw-Group",
-      "date_posted": "2026-10-19",
-      "description": "* Receber e conferir mercadorias de acordo com os pedidos e as notas fiscais.\n* Organizar e armazenar alimentos, bebidas, materiais de limpeza e outros insumos nos locais apropriados.\n* Verificar prazos de validade, condições das embalagens e qualidade dos produtos recebidos.\n* Realizar o controle de entrada e saída de mercadorias.\n* Auxiliar na realização de inventários e contagens periódicas do estoque.\n* Identificar e comunicar divergências, avarias, perdas ou falta de produtos.\n* Manter o estoque limpo, organizado e devidamente identificado.\n* Cumprir as normas de higiene, segurança alimentar e armazenamento de alimentos.\n* Apoiar a equipe de compras e a cozinha no abastecimento dos insumos necessários à operação.\n* Seguir o sistema PVPS (Primeiro que Vence, Primeiro que Sai), evitando desperdícios e perdas de produtos.\n\n**Requisitos**\n--------------\n\n* Ensino médio completo ou cursando.\n* Organização, atenção aos detalhes e responsabilidade.\n* Facilidade para trabalhar em equipe.\n* Disposição para atividades operacionais e movimentação de mercadorias.\n* Conhecimentos básicos de informática serão considerados um diferencial.\n* Experiência anterior em estoque ou restaurante será considerada um diferencial, mas não é obrigatória.",
-      "salary": "$1959.36/yr",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Jobbol",
-      "title": "ESTOQUISTA (Garage Rio)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=5c64de1f23d1757b",
-      "direct_url": "https://www.jobbol.com.br/vaga/29387148917",
-      "company_url": "https://br.indeed.com/cmp/Jobbol",
-      "date_posted": "2026-10-19",
-      "description": "Indústria e Comércio de Produtos Têxteis busca profissional Estoquista em Rio de Janeiro.\n\nGarage Rio é uma Indústria e Comércio de Produtos Têxteis especializada na fabricação, comercialização e distribuição de artigos de vestuário e acessórios. A empresa atua no desenvolvimento de peças têxteis, atendendo clientes do segmento da moda e confecção com produtos voltados ao mercado varejista e atacadista.\n\n**Responsabilidades:**\n\nReceber, conferir e organizar mercadorias no estoque. Separar e disponibilizar produtos para reposição e atendimento às demandas internas. Controlar a entrada e a saída de materiais, mantendo a organização do setor.\n\nAtuações anteriores em Armazenador, Assistente de Estoque, Operador de Armazém ou Controlador de Estoque podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino médio completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Benefícios a combinar\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Temporário - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
