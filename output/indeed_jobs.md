@@ -1,9 +1,22 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-24 01:10 UTC*
+*Last updated: 2026-10-24 06:31 UTC*
 
-**1 new role(s)** since last run · 8 total in last 24h
+**3 new role(s)** since last run · 11 total in last 24h
 
-### [Auxiliar de Logística/Separador Noturno (Prezunic) - Rio de Janeiro/RJ](https://br.indeed.com/viewjob?jk=d3a29b063541f906) — Cencosud
+### [AUXILIAR DE LOGÍSTICA - Barra da Tijuca (Cardiovent)](https://br.indeed.com/viewjob?jk=3f4fd4686db5b600) — Jobbol
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-24
+
+### [CONFERENTE - Olaria (Facilita Embalagens)](https://br.indeed.com/viewjob?jk=724a60b1fcac8f10) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-24
+
+### [ESTOQUISTA - Olaria (Facilita Embalagens)](https://br.indeed.com/viewjob?jk=cc8fff7060b23592) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-24
