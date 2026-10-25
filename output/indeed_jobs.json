@@ -1,44 +1,7 @@
 {
-  "scraped_at": "2026-10-25 06:59 UTC",
-  "total": 2,
+  "scraped_at": "2026-10-25 18:34 UTC",
+  "total": 0,
   "new_count": 0,
-  "jobs": [
-    {
-      "company": "Cencosud",
-      "title": "Conferente (Prezunic) - Rio de Janeiro/RJ",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=d0d1ff2aa978c2d7",
-      "direct_url": "https://cencosudbrasil.gupy.io/job/eyJqb2JJZCI6MTI3Njk4MjAsInNvdXJjZSI6ImluZGVlZCJ9?jobBoardSource=indeed",
-      "company_url": "https://br.indeed.com/cmp/Cencosud",
-      "date_posted": "2026-10-24",
-      "description": "**O QUE VOCÊ TERÁ DE RESPONSABILIDADES**\n\n  \n\nConferência e estoque dos produtos recebidos na loja, garantindo qualidade e quantidade;\n\nAcompanhar o descarregamento e carregamento das mercadorias, verificando se estão de acordo com os pedidos;\n\n✔ Verificar e observar as datas de validade dos produtos;\n\nConferir e confrontar se os produtos estão conforme as Notas Fiscais.\n\n **Requisitos e qualificações**\n\nEnsino Médio Completo;\n\nGarantir o cumprimento de processos, procedimentos e rotinas;\n\nFacilidade de interação e boa comunicação;\n\nHabilidade em informática (pacote office).\n\n **Informações adicionais**\n\n**Confira nossos benefícios**\n\nAssistência médica;\n\nAssistência odontológica;\n\n* Seguro de vida;\n\nCartão de compras para utilização em nossos estabelecimentos;\n\nDesconto de até 10% em compras em toda rede Cencosud;\n\nDescontos em instituições de ensino superior e idiomas;\n\nEmpréstimos consignados em contracheque;\n\nParticipação nos lucros e resultados da companhia;\n\n‍Programa de treinamentos para desenvolvimento de carreira;\n\nVale-transporte.\n\n**#VenhaViverUmMundoDeOportunidades**\n\n**Cencosud** é um dos maiores e mais prestigiados varejistas na América. Possui operações na Argentina, Brasil, Chile, Peru, Colômbia e Estados Unidos – além de um escritório comercial na China e um Hub Tecnológico e Digital no Uruguai –, onde desenvolve diariamente uma estratégia multiformato de sucesso que hoje emprega mais de 110.000 colaboradores. Sua operação abrange diversas linhas de negócio como Supermercados, Melhoramento do Lar, Lojas de Departamento, Shopping Centers e Serviços Financeiros. Adicionalmente, desenvolve outras linhas de negócio que complementam sua operação central como Cencosud Media, Cencosud Ventures e CencoPay. Todas se destacam por sua qualidade, excelente nível de serviço e satisfação do cliente.\n\nNo Brasil, a Cencosud opera desde 2007, por meio das redes **GBarbosa, Mercantil Atacado, Bretas, Perini, Prezunic, SPID, GIGA Atacado**, além dos negócios de **Serviços Financeiros** e retail media, a **CencoMedia**. Com mais de 300 unidades e cerca de 20 mil colaboradores, o grupo está presente nos estados de Alagoas, Bahia, Ceará, Goiás, Minas Gerais, Pernambuco, Rio de Janeiro, Sergipe e São Paulo, onde também possui um escritório administrativo.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Caderno Nacional",
-      "title": "Auxiliar Operacional de Depósito - Sem experiência - (SEPA Construção & Decoração)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=679d8242246769ea",
-      "direct_url": "https://cadernonacional.com.br/vagas/auxiliar-operacional-de-deposito/87049832?source=Indeed",
-      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-10-24",
-      "description": "Auxiliar Operacional de Depósito - Armazenar mercadorias; organizar o estoque; realizar a limpeza do setor de trabalho; realizar a reposição de mercadorias, quando necessário; executar o carregamento e descarregamento de caminhões; auxiliar na entrega de mercadorias, quando necessário. Expediente: de segunda a sexta-feira, das 08h às 17h; sábados, das 08h às 14h. Escolaridade e exigências: ensino médio completo; experiência mínima de 6 meses na função. Benefícios: contrato CLT, vale-transporte, assistência médica e lanche aos sábados.\n  \n  \n**Salário:** R$ 1.725,00, passando para R$ 1.917,00 após o terceiro mês\n  \n  \n#CNVAGAS",
-      "salary": "$1725–$1917/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ],
+  "jobs": [],
   "new_jobs": []
 }
