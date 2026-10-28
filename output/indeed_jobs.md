@@ -1,10 +1,17 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-28 00:04 UTC*
+*Last updated: 2026-10-28 06:21 UTC*
 
-**1 new role(s)** since last run · 10 total in last 24h
+**2 new role(s)** since last run · 9 total in last 24h
 
-### [AUXILIAR DE DEPÓSITO](https://br.indeed.com/viewjob?jk=334f3e13fb65b0fc) — AMOEDO
+### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=01e326f4b361bde4) — Caderno Nacional
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1917/mo
+- 💰 **Salary:** $70/day
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-27
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
+
+### [Estoquista - Diversos benefícios - (Beleza 10 Make Up)](https://br.indeed.com/viewjob?jk=0acd3bd47aff1ad1) — Caderno Nacional
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
