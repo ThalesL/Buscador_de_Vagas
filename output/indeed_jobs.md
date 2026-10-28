@@ -1,17 +1,25 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-28 06:21 UTC*
+*Last updated: 2026-10-28 20:35 UTC*
 
-**2 new role(s)** since last run · 9 total in last 24h
+**4 new role(s)** since last run · 5 total in last 24h
 
-### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=01e326f4b361bde4) — Caderno Nacional
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $70/day
+### [Ajudante de Caminhão - São Gonçalo](https://br.indeed.com/viewjob?jk=a39639263ae43826) — INDUSTRIA DE BEBIDAS REFLEXA
+- 📍 **Location:** São Gonçalo, RJ, Brazil
+- 💰 **Salary:** $1700–$2100/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-28
 
-### [Estoquista - Diversos benefícios - (Beleza 10 Make Up)](https://br.indeed.com/viewjob?jk=0acd3bd47aff1ad1) — Caderno Nacional
+### [Conferente (Prezunic Cachambi) – Rio de Janeiro/RJ](https://br.indeed.com/viewjob?jk=df2bf4a5f6eeb23d) — Cencosud
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-28
+
+### [Conferente - Duque de Caxias/RJ](https://br.indeed.com/viewjob?jk=fda22435788f6289) — Rondolog Transportes
+- 📍 **Location:** Duque de Caxias, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-10-28
+
+### [Estoquista - Authentic Feet Norte Shopping](https://br.indeed.com/viewjob?jk=8538d01807adcb4a) — Authentic Feet
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-28
