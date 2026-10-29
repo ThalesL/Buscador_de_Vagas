@@ -1,9 +1,16 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-29 00:27 UTC*
+*Last updated: 2026-10-29 06:31 UTC*
 
-**1 new role(s)** since last run · 5 total in last 24h
+**2 new role(s)** since last run · 7 total in last 24h
 
-### [OPERADOR LOGISTICO I](https://br.indeed.com/viewjob?jk=8920ad0aa791f16d) — Grupo Petrópolis
-- 📍 **Location:** Teresópolis, RJ, Brazil
+### [Conferente - Temporário (Caxias)](https://br.indeed.com/viewjob?jk=978c6e4c1ab399c3) — DeLuna Soluções em Transportes e Logística
+- 📍 **Location:** Duque de Caxias, RJ, Brazil
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-28
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-29
+
+### [ESTOQUISTA - Barra da Tijuca (Leila Pinto Recrutamento e Seleção)](https://br.indeed.com/viewjob?jk=f092635c06969054) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-10-29
