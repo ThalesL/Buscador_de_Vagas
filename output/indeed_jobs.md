@@ -1,37 +1,36 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-10-30 06:31 UTC*
+*Last updated: 2026-10-30 20:10 UTC*
 
-**6 new role(s)** since last run · 14 total in last 24h
+**5 new role(s)** since last run · 13 total in last 24h
 
-### [Auxiliar de Expedição | Cozinha Delivery - Botafogo | 5x2](https://br.indeed.com/viewjob?jk=9be6c19891406290) — OVAL - VAGAS
+### [ajudante de motorista carga e descarga](https://br.indeed.com/viewjob?jk=0e336965d7a100e3) — HYPER BREAD IND DE DISTRIBUIÇÃO DE ALIM EIRELI
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1734.47–$1934.47/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-30
 
-### [AJUDANTE DE CARGA E DESCARGA](https://br.indeed.com/viewjob?jk=36374a3c39970b49) — MRO Corporation
-- 📍 **Location:** Itaboraí, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-10-30
-
-### [Conferente | Temporário (Caxias)](https://br.indeed.com/viewjob?jk=474bd40ba7968b3e) — DeLuna Soluções em Transportes e Logística
-- 📍 **Location:** Duque de Caxias, RJ, Brazil
-- **Work mode:** On-site
-- **Job type:** contract
-- 🕒 **Posted:** 2026-10-30
-
-### [Auxiliar de Segurança da Informação](https://br.indeed.com/viewjob?jk=9e9560adf4d584a8) — ELECNOR
+### [Estoquista/Conferente](https://br.indeed.com/viewjob?jk=a451a6ec24b00a6a) — Pizza park
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1800–$2200/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-30
 
-### [Estoquista | Schutz | Temporário](https://br.indeed.com/viewjob?jk=612384c31bd6efeb) — Carreiras nas Lojas | Azzas 2154 Shoes & Bags
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+### [conferente de mercadorias](https://br.indeed.com/viewjob?jk=f76bf74f1bc03a93) — INSTITUTO CONEXÃO AMPARO
+- 📍 **Location:** Petrópolis, RJ, Brazil
+- 💰 **Salary:** $2205/mo
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-10-30
 
-### [Estoquista | Alexandre Birman | Temporário](https://br.indeed.com/viewjob?jk=0d4d9bf3cb05a2b9) — Carreiras nas Lojas | Azzas 2154 Shoes & Bags
+### [Conferente de Estoque/Depósito - Diversos benefícios](https://br.indeed.com/viewjob?jk=3e7aaf6db13dd52b) — Caderno Nacional
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1870–$1950/mo
 - **Work mode:** On-site
-- **Job type:** contract
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-10-30
+
+### [Estoquista de loja](https://br.indeed.com/viewjob?jk=69a94bf544f4e58f) — CASSIGELICA ME
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1621–$1837/mo
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-10-30
