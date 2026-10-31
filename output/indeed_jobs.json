@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-10-31 19:34 UTC",
+  "scraped_at": "2026-10-31 22:52 UTC",
   "total": 2,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Jobbol",
@@ -40,24 +40,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "UNIVERSO KIDS",
-      "title": "Estoquista/Repositor",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=7067fa7422b97d8f",
-      "direct_url": "",
-      "company_url": "https://br.indeed.com/cmp/Universo-Kids",
-      "date_posted": "2026-10-31",
-      "description": "**VAGA: ESTOQUISTA – 2 VAGAS DISPONÍVEIS**\n\nA NOVA AMÉRICA KIDS está em busca de 2 profissionais para integrar nossa equipe de estoque! Procuramos pessoas organizadas, responsáveis, comprometidas e que tenham experiência comprovada na função, registrada em carteira.\n\n**Principais atividades:**\n\n* Recebimento e conferência de mercadorias;\n* Organização e armazenamento dos produtos;\n* Separação de pedidos;\n* Controle e movimentação de estoque;\n* Reposição e identificação de produtos;\n* Manutenção da organização e limpeza do setor.\n\n**Requisitos:**\n\n* Experiência comprovada em carteira na área de estoque;\n* Organização, atenção e responsabilidade;\n* Agilidade e comprometimento;\n* Facilidade para trabalhar em equipe.\n\n**Informações da vaga:**\n\n* **Salário:** R$ 2.000,00 + vale-transporte;\n* **Horário:** Segunda a sexta, das 9h às 18h, e sábado, das 9h às 17h;\n* **Local:** Rua Dom Hélder Câmara, próximo ao Shopping Nova América – Rio de Janeiro/RJ.\n* **Quantidade de vagas:** 2.\n\n**Como se candidatar:** Envie seu currículo pelo WhatsApp: **(21) 96662-2129**.\n\nVenha fazer parte do nosso time!\n\nPagamento: R$1.621,00 - R$2.000,00 por mês\n\nBenefícios:\n\n* Vale-transporte\n\nLocal do trabalho: Presencial",
-      "salary": "$1621–$2000/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
