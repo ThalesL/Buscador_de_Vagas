@@ -1,26 +1,45 @@
 {
-  "scraped_at": "2026-11-02 06:54 UTC",
+  "scraped_at": "2026-11-02 23:14 UTC",
   "total": 1,
-  "new_count": 0,
+  "new_count": 1,
   "jobs": [
     {
-      "company": "Caderno Nacional",
-      "title": "Estoquista PCD - Diversos benefícios - (Aviator Moda Masculina)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=b516054580de9d37",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista-pcd/87061514?source=Indeed",
-      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-11-01",
-      "description": "Estoquista PCD - Receber produtos; conferir, etiquetar e armazenar mercadorias; separar e enviar mercadorias para as lojas; realizar carga e descarga de mercadorias. Horário a combinar. Ensino Médio completo; organização, atenção e concentração. Contrato CLT.\n  \n  \nSalário a combinar.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
+      "company": "CASSIGELICA ME",
+      "title": "Estoquista de loja",
+      "location": "Niterói, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=ae3b1a5475c9a613",
+      "direct_url": "",
+      "company_url": "",
+      "date_posted": "2026-11-02",
+      "description": "* **Abordagem Ativa:** Conduzir a prospecção de clientes em lojas ou ambientes de varejo.\n* **Análise de Perfil:** Avaliar a capacidade de pagamento e dados de crédito dos interessados.\n* **Divulgação de Vantagens:** Explicar taxas, anuidades, limites, programas de pontos e descontos exclusivos.\n* **Fechamento de Propostas:** Preencher e processar cadastros para a emissão do cartão.\n* **Gestão de Metas:** Acompanhar indicadores de conversão, aprovação e ativação de novos cartões\n\nPagamento: R$1.621,00 - R$1.837,00 por mês\n\nBenefícios:\n\n* Assistência odontológica\n* Convênios e descontos comerciais\n* Vale-transporte\n\nLocal do trabalho: Presencial",
+      "salary": "$1621–$1837/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
       "ats": "Indeed"
     }
   ],
-  "new_jobs": []
+  "new_jobs": [
+    {
+      "company": "CASSIGELICA ME",
+      "title": "Estoquista de loja",
+      "location": "Niterói, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=ae3b1a5475c9a613",
+      "direct_url": "",
+      "company_url": "",
+      "date_posted": "2026-11-02",
+      "description": "* **Abordagem Ativa:** Conduzir a prospecção de clientes em lojas ou ambientes de varejo.\n* **Análise de Perfil:** Avaliar a capacidade de pagamento e dados de crédito dos interessados.\n* **Divulgação de Vantagens:** Explicar taxas, anuidades, limites, programas de pontos e descontos exclusivos.\n* **Fechamento de Propostas:** Preencher e processar cadastros para a emissão do cartão.\n* **Gestão de Metas:** Acompanhar indicadores de conversão, aprovação e ativação de novos cartões\n\nPagamento: R$1.621,00 - R$1.837,00 por mês\n\nBenefícios:\n\n* Assistência odontológica\n* Convênios e descontos comerciais\n* Vale-transporte\n\nLocal do trabalho: Presencial",
+      "salary": "$1621–$1837/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
