@@ -1,43 +1,30 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-03 21:17 UTC*
+*Last updated: 2026-11-04 01:42 UTC*
 
-**6 new role(s)** since last run · 6 total in last 24h
+**5 new role(s)** since last run · 11 total in last 24h
 
-### [AUXILIAR DE DEPÓSITO](https://br.indeed.com/viewjob?jk=3aec5a5cb7e8e6b3) — AMOEDO
+### [AZZAS F&L | Auxiliar de Logística | Logística](https://br.indeed.com/viewjob?jk=f3b7585aacdb379c) — AZZAS 2154 FASHION & LIFESTYLE
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1917/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-04
 
-### [Ajudante de carga e descarga](https://br.indeed.com/viewjob?jk=c7aa78a377741ed0) — CARIOCARGA LOGISTICA LTDA
-- 📍 **Location:** Campo Grande, RJ, Brazil
-- 💰 **Salary:** $1518–$1839.37/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-03
-
-### [ajudante de caminhão](https://br.indeed.com/viewjob?jk=772b67a7a8ccac15) — MG Comercio de Embalagens LTDA
-- 📍 **Location:** Maricá, RJ, Brazil
-- 💰 **Salary:** $1735.55–$1735.56/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
-
-### [Estoquista Extra Natal](https://br.indeed.com/viewjob?jk=22ddf0802fdd0582) — VIA MIA
-- 📍 **Location:** Barra da Tijuca, RJ, Brazil
-- 💰 **Salary:** $1850–$2100/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-03
-
-### [ESTOQUISTA - RIO DE JANEIRO-RJ](https://br.indeed.com/viewjob?jk=69eb56c38cd52a33) — BK IMPORTACOES DE ADESIVOS PLASTICOS LTDA
+### [AZZAS F&L | Auxiliar de Logística | Logística| Exclusiva para Pessoas com Deficiência](https://br.indeed.com/viewjob?jk=5d15221712b52936) — AZZAS 2154 FASHION & LIFESTYLE
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1900/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-03
+- 🕒 **Posted:** 2026-11-04
 
-### [Estoquista - Diversos benefícios - (GH Printer)](https://br.indeed.com/viewjob?jk=2fd3b13d774669b8) — Caderno Nacional
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1825/mo
+### [CONFERENTE - ITABORAÍ PLAZA](https://br.indeed.com/viewjob?jk=6f7f3cb8b0c9f974) — Barcelos
+- 📍 **Location:** Itaboraí, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-04
+
+### [AUXILIAR OPERACIONAL - PESSOA COM DEFICIÊNCIA (PCD) - ITABORAÍ PLAZA](https://br.indeed.com/viewjob?jk=297ead3d7a4f8301) — Barcelos
+- 📍 **Location:** Itaboraí, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-04
+
+### [Estoquista](https://br.indeed.com/viewjob?jk=32ec0e343dcfe6f4) — Clínica Sozo
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1800–$1900/mo
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-03
