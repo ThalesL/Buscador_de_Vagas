@@ -1,22 +1,33 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-06 09:56 UTC*
+*Last updated: 2026-11-06 21:05 UTC*
 
-**3 new role(s)** since last run · 18 total in last 24h
+**5 new role(s)** since last run · 10 total in last 24h
 
-### [Estoquista Líder - Diversos benefícios - (Loja de Roupas)](https://br.indeed.com/viewjob?jk=7818e5a5e684c014) — Caderno Nacional
+### [Estoquista - Noturno](https://br.indeed.com/viewjob?jk=bf3bc9a04fb08303) — UNILIDER DISTRIBUIDORA
+- 📍 **Location:** São João de Meriti, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-06
+
+### [Conferente](https://br.indeed.com/viewjob?jk=d3492c400b3c04c6) — Bernobre Distribuidora
 - 📍 **Location:** Nova Iguaçu, RJ, Brazil
+- 💰 **Salary:** $2087.69/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
 
-### [ESTOQUISTA - Barra da Tijuca (Vasculaine)](https://br.indeed.com/viewjob?jk=c3a3240c673e7eb7) — Jobbol
+### [Estoquista | Grupo Azzurra](https://br.indeed.com/viewjob?jk=8755d398719947e4) — Grupo Azzurra | Seu próximo destino profissional começa aqui!
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1800/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
 
-### [ESTOQUISTA - Copacabana (Missy)](https://br.indeed.com/viewjob?jk=7f5a2d139fd7812e) — Jobbol
+### [Estoquista de loja](https://br.indeed.com/viewjob?jk=70ce259fce6a6d7f) — AMC Têxtil
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** contract
+- 🕒 **Posted:** 2026-11-06
+
+### [Estoquista](https://br.indeed.com/viewjob?jk=f6faf6f44f651077) — KAPLAST INDUSTRIA DE PLASTICO LTDA
+- 📍 **Location:** Sampaio Correia, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
