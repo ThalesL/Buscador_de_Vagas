@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-07 19:40 UTC",
+  "scraped_at": "2026-11-07 23:06 UTC",
   "total": 1,
-  "new_count": 1,
+  "new_count": 0,
   "jobs": [
     {
       "company": "Caderno Nacional",
@@ -22,24 +22,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "Caderno Nacional",
-      "title": "Auxiliar de Logística e Transporte - Sem experiência - (Costa Rica Colchões)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=4822ec19bf1cd751",
-      "direct_url": "https://cadernonacional.com.br/vagas/auxiliar-de-logistica-e-transporte/87125373?source=Indeed",
-      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-11-07",
-      "description": "Auxiliar de Logística e Transporte - Responsável por realizar a programação do processo de logística, roteirizando percursos dos veículos agregados no Rio de Janeiro. Escalar as cargas viabilizando o melhor aproveitamento da ida e retorno. Organizar as entregas por áreas, a fim de controlar o destino de cada veículo. Viabilizar e otimizar os processos e acompanhar o cumprimento dos prazos de entregas. Emitir os documentos pertinentes à viagem e notas fiscais. Atendimento e suporte aos motoristas parceiros. Requisitos: Ensino médio completo; conhecimento no pacote Office, especialmente Excel; conhecimento logístico entre os bairros da grande Rio será um diferencial. Benefícios: Plano Refeição Local; Plano de Saúde; Plano Odontológico; Auxílio Natalidade; Auxílio Funeral; Plano Adicional por Tempo de Serviço; Vale Transporte; Convênio SESC; Desconto na compra de produtos na loja. Jornada: dois turnos, segunda a sexta das 8:00 às 17:30 e sábado das 08:00 às 12:00.\n  \n  \n**Salário:** R$ 1.750,00\n  \n  \n#CNVAGAS",
-      "salary": "$1750/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
