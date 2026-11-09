@@ -1,10 +1,17 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-09 00:06 UTC*
+*Last updated: 2026-11-09 07:15 UTC*
 
-**1 new role(s)** since last run · 3 total in last 24h
+**2 new role(s)** since last run · 4 total in last 24h
 
-### [OPERADOR LOGÍSTICO - Xerém (Gruposimec)](https://br.indeed.com/viewjob?jk=5f77d1de439ab1d6) — Jobbol
-- 📍 **Location:** Duque de Caxias, RJ, Brazil
+### [ESTOQUISTA](https://br.indeed.com/viewjob?jk=2464e6253fb730c1) — Aquarella Atelie
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1621–$1800/mo
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-09
+
+### [ESTOQUISTA - Taquara (Dom Atacadista)](https://br.indeed.com/viewjob?jk=1a6dfe5e7d093e70) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-08
+- 🕒 **Posted:** 2026-11-09
