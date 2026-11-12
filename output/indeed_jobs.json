@@ -1,7 +1,7 @@
 {
-  "scraped_at": "2026-11-12 03:24 UTC",
-  "total": 14,
-  "new_count": 3,
+  "scraped_at": "2026-11-12 11:54 UTC",
+  "total": 13,
+  "new_count": 0,
   "jobs": [
     {
       "company": "INDUSTRIA DE EMBALAGENS E SERVICOS LTDA",
@@ -76,24 +76,6 @@
       "ats": "Indeed"
     },
     {
-      "company": "CFZ",
-      "title": "AUXILIAR OPERACIONAL - LOGISTICA",
-      "location": "Taquara, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=3bb9024b75d5033a",
-      "direct_url": "",
-      "company_url": "https://br.indeed.com/cmp/Cfz",
-      "date_posted": "2026-11-11",
-      "description": "**AUXILIAR OPERACIONAL - LOGISTICA**   \nVaga efetiva\n\nSalário: R$ 1790,00+ Gratificação  \nPrimeiro ajuste no salário em 3 meses  \nGratificação 0,1% também em 3 meses  \nSegundo ajuste no salário em 6 meses.\n\nBenefícios: - Vale Transporte, Vale Refeição, Seguro de Vida em Grupo, Reembolso Km, Hora Extra Remunerada\n\nHorário de trabalho: segunda a sexta-feira, das 8h às 17h, com 1h de intervalo\n\nLocal de trabalho: Dque de Caxias, RJ\n\n**Atividades profissionais:**  \nEntregas e retiradas de materiais.  \nSeparação de produtos no estoque.  \nEmbalar produtos para envio.  \nServiços administrativos logístico.\n\n**Requisitos:**  \nNecessário possuir CNH B.  \nEnsino médio completo\n\n**Informações Adicionais:**  \nProatividade.  \nDisponibilidade.  \nIniciativa e Disposição.  \nOrganização e Planejamento.  \nTrabalho em equipe.\n\nPagamento: R$1.790,00 por mês\n\nBenefícios:\n\n* Auxílio-combustível\n* Estacionamento gratuito\n* Participação nos lucros\n* Seguro de vida\n* Vale-refeição\n* Vale-transporte\n\nLocal do trabalho: Presencial",
-      "salary": "$1790/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
       "company": "Grupo Petrópolis",
       "title": "OPERADOR LOGISTICO II",
       "location": "Petrópolis, RJ, Brazil",
@@ -105,6 +87,24 @@
       "salary": "",
       "salary_source": "",
       "salary_currency": "",
+      "job_type": "",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    },
+    {
+      "company": "CFZ",
+      "title": "AUXILIAR OPERACIONAL - LOGISTICA",
+      "location": "Taquara, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=3bb9024b75d5033a",
+      "direct_url": "",
+      "company_url": "https://br.indeed.com/cmp/Cfz",
+      "date_posted": "2026-11-11",
+      "description": "**AUXILIAR OPERACIONAL - LOGISTICA**   \nVaga efetiva\n\nSalário: R$ 1790,00+ Gratificação  \nPrimeiro ajuste no salário em 3 meses  \nGratificação 0,1% também em 3 meses  \nSegundo ajuste no salário em 6 meses.\n\nBenefícios: - Vale Transporte, Vale Refeição, Seguro de Vida em Grupo, Reembolso Km, Hora Extra Remunerada\n\nHorário de trabalho: segunda a sexta-feira, das 8h às 17h, com 1h de intervalo\n\nLocal de trabalho: Dque de Caxias, RJ\n\n**Atividades profissionais:**  \nEntregas e retiradas de materiais.  \nSeparação de produtos no estoque.  \nEmbalar produtos para envio.  \nServiços administrativos logístico.\n\n**Requisitos:**  \nNecessário possuir CNH B.  \nEnsino médio completo\n\n**Informações Adicionais:**  \nProatividade.  \nDisponibilidade.  \nIniciativa e Disposição.  \nOrganização e Planejamento.  \nTrabalho em equipe.\n\nPagamento: R$1.790,00 por mês\n\nBenefícios:\n\n* Auxílio-combustível\n* Estacionamento gratuito\n* Participação nos lucros\n* Seguro de vida\n* Vale-refeição\n* Vale-transporte\n\nLocal do trabalho: Presencial",
+      "salary": "$1790/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
       "job_type": "",
       "is_remote": false,
       "work_arrangement": "On-site",
@@ -160,24 +160,6 @@
       "salary_source": "",
       "salary_currency": "",
       "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Caderno Nacional",
-      "title": "Estoquista - Diversos benefícios",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=317ff80e83ddcd4e",
-      "direct_url": "https://cadernonacional.com.br/vagas/estoquista/87130472?source=Indeed",
-      "company_url": "https://br.indeed.com/cmp/Caderno-Nacional",
-      "date_posted": "2026-11-11",
-      "description": "Estoquista - Receber, conferir e armazenar mercadorias conforme os padrões da empresa. Realizar contagens regulares de estoque e inventários periódicos. Organizar prateleiras, freezers e geladeiras, garantindo a correta identificação dos produtos. Registrar entradas e saídas no sistema de controle de estoque.\n  \n  \nAplicar a metodologia PVPS (Primeiro que Vence, Primeiro que Sai). Controlar prazos de validade e condições de armazenamento. Colaborar com as equipes de produção e vendas para manter o abastecimento adequado dos produtos. Expediente: de segunda a sábado, das 8h às 16h20.\n  \n  \n**Exigências:** experiência comprovada em carteira como estoquista, preferencialmente no ramo alimentício; conhecimento básico em sistemas de gerenciamento de estoque; foco, organização e atenção aos detalhes; responsabilidade e comprometimento; facilidade para trabalhar em equipe e seguir processos. Benefícios: contrato CLT, 2 lanches por dia no local, bônus especial de aniversário, plano odontológico SulAmérica sem desconto em folha, convênio com clínicas médicas, oftalmológica e faculdade, adiantamento salarial a partir do segundo mês, vale-transporte e chance de crescimento na empresa.",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "fulltime",
       "is_remote": false,
       "work_arrangement": "On-site",
       "emails": "",
@@ -256,60 +238,5 @@
       "ats": "Indeed"
     }
   ],
-  "new_jobs": [
-    {
-      "company": "INDUSTRIA DE EMBALAGENS E SERVICOS LTDA",
-      "title": "Auxiliar de Expedição",
-      "location": "Duque de Caxias, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=6344beeb13139edf",
-      "direct_url": "https://industriadeembalagenseservicosltda.pandape.com.br/Detail/3922505?ov=5&xtor=AL-366332663&source=Indeed&utm_source=indeed&utm_medium=referral&utm_campaign=feed&utm_term=organic&utm_content=ats",
-      "company_url": "https://br.indeed.com/cmp/Industria-De-Embalagens-E-Servicos-Ltda",
-      "date_posted": "2026-11-12",
-      "description": "Realizar pesagem dos produtos acabados, quando necessário. Acompanhar o carregamento do caminhão. Separar os produtos acabados, utilizando de materiais próprios e seguindo as determinações do superior imediato. Arrumar e agrupar os produtos dentro das áreas delimitadas. Fazer inventário quando necessário.\n  \n  \nEnsino Médio Completo Desejável experiência na função. Necessário Curso NR11 - Operador de empilhadeira Necessário CNH.\n  \n  \n**Escolaridade Mínima:** Ensino Médio (2º Grau)",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Humanize Consultoria",
-      "title": "Auxiliar de Expedição / Conferente",
-      "location": "Nova Iguaçu, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=d3baca2aa001aa5a",
-      "direct_url": "",
-      "company_url": "https://br.indeed.com/cmp/Humanize-Consultoria",
-      "date_posted": "2026-11-12",
-      "description": "AUXILIAR DE EXPEDIÇÃO – TINHO PEÇAS\n\nEstamos contratando Auxiliar de Expedição para integrar nossa equipe!\n\nSalário: R$ 1.910,00\n\nPrincipais atividades:\n\n* Separação e conferência de mercadorias;\n* Organização de produtos no estoque;\n* Embalagem e preparação de pedidos;\n* Conferência de notas e pedidos;\n* Apoio no recebimento e envio de mercadorias;\n* Organização e controle da área de expedição.\n\nRequisitos:\n\n* Ensino médio completo;\n* Organização e atenção aos detalhes;\n* Agilidade e comprometimento;\n* Experiência na área será um diferencial.\n\nJornada de trabalho: 44 horas semanais.\n\nLocal de trabalho: Tinho Peças.\n\nInteressados devem encaminhar o currículo para participar do processo seletivo.\n\nPagamento: R$1.910,00 por mês\n\nBenefícios:\n\n* Vale-transporte\n\nLocal do trabalho: Presencial",
-      "salary": "$1910/mo",
-      "salary_source": "direct_data",
-      "salary_currency": "BRL",
-      "job_type": "fulltime",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    },
-    {
-      "company": "Jobbol",
-      "title": "ESTOQUISTA - Barra da Tijuca (Blueman)",
-      "location": "Rio de Janeiro, RJ, Brazil",
-      "url": "https://br.indeed.com/viewjob?jk=b381c8a18dcf9182",
-      "direct_url": "https://www.jobbol.com.br/vaga/157939-estoquista?cidade=3243",
-      "company_url": "https://br.indeed.com/cmp/Jobbol",
-      "date_posted": "2026-11-12",
-      "description": "Empresa de Moda Praia busca profissional Estoquista em Rio de Janeiro (Barra da Tijuca).\n\nA Blueman Moda Praia Casual é uma empresa dedicada ao desenvolvimento de roupas e acessórios para o segmento de moda praia. Com foco na qualidade e estilo, a marca busca atender às necessidades de seus clientes em momentos de lazer e descontração.\n\n**Responsabilidades:**\n\nReceber, conferir e organizar mercadorias no estoque, assegurando a correta identificação dos produtos. Separar itens para reposição, expedição ou atendimento interno, mantendo o fluxo de materiais em ordem. Controlar a entrada e saída de produtos, preservando a organização do estoque e apoiando a equipe nas demandas diárias.\n\nAtuações anteriores em Armazenador, Assistente de Estoque, Operador de Armazém ou Controlador de Estoque podem indicar afinidade com algumas das atividades desta posição.\n\nEnsino médio completo Necessário experiência\n  \n**Remuneração e Benefícios:**\n\n* Salário: Faixa salarial será informada na entrevista.\n* Benefícios a combinar\n\n**Informações adicionais:**\n\n* #VagaUrgente\n* Contrato: Temporário - Presencial.\n* Período: Tempo Integral\n* Jornada: A combinar",
-      "salary": "",
-      "salary_source": "",
-      "salary_currency": "",
-      "job_type": "contract",
-      "is_remote": false,
-      "work_arrangement": "On-site",
-      "emails": "",
-      "ats": "Indeed"
-    }
-  ]
+  "new_jobs": []
 }
