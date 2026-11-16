@@ -1,5 +1,5 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-15 20:36 UTC*
+*Last updated: 2026-11-16 00:25 UTC*
 
 **0 new role(s)** since last run · 2 total in last 24h
 
