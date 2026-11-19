@@ -1,40 +1,40 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-19 03:52 UTC*
+*Last updated: 2026-11-19 22:46 UTC*
 
-**6 new role(s)** since last run · 13 total in last 24h
+**6 new role(s)** since last run · 9 total in last 24h
 
-### [AJUDANTE DE CARGA E DESCARGA - Centro (Vivian Festas)](https://br.indeed.com/viewjob?jk=00fc5cea779a44f5) — Jobbol
-- 📍 **Location:** Duque de Caxias, RJ, Brazil
-- 💰 **Salary:** $1963.33/mo
+### [Auxiliar de Logística](https://br.indeed.com/viewjob?jk=e34a8d0d32f1e0d3) — ELETROFRIGOR PEÇAS LTDA
+- 📍 **Location:** Niterói, RJ, Brazil
+- 💰 **Salary:** $1785/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Ajudante de Depósito - Carga e Descarga de Caminhão - OLARIA](https://br.indeed.com/viewjob?jk=9e44cac3db2e2076) — Supermercados Zona Sul
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $2000/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Auxiliar Operacional I](https://br.indeed.com/viewjob?jk=dfb92dd58b91dde0) — AMBIPAR GROUP
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1900–$2200/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-19
+
+### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=cf525056d6fdd226) — Caderno Nacional
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-19
 
-### [AUXILIAR DE LOGÍSTICA - JACAREPAGUÁ/RJ](https://br.indeed.com/viewjob?jk=7e15c0a32044db99) — Grupo Domingão
+### [Vendedor, estoquista, operador de caixa e consultor - Sem experiência - (Grupo Bernardo Franquias (Grupo Boticário))](https://br.indeed.com/viewjob?jk=c1b79c432e4da28f) — Caderno Nacional
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2105.77/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [Auxiliar Operacional de Logística | Nova Iguaçu - RJ](https://br.indeed.com/viewjob?jk=dc4deb7f37f25cf0) — BATERIAS MOURA
-- 📍 **Location:** Nova Iguaçu, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [Estoquista - RJ](https://br.indeed.com/viewjob?jk=9dd7c56dbe01ac13) — Grupo LEV
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [Estoquista de loja](https://br.indeed.com/viewjob?jk=845634d548c7d98e) — Star Brink Brinquedos
-- 📍 **Location:** São Gonçalo, RJ, Brazil
-- 💰 **Salary:** $1720/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Estoquista](https://br.indeed.com/viewjob?jk=91743a7e63554be9) — restaurante ipanema
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1518–$3000/mo
+### [Estoquista | Extra Natal Plaza Shopping](https://br.indeed.com/viewjob?jk=43a8047b798ec9ab) — ATF CONFECÇÕES
+- 📍 **Location:** Niterói, RJ, Brazil
+- 💰 **Salary:** $1829/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
