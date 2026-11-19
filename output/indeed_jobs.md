@@ -1,54 +1,40 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-18 22:42 UTC*
+*Last updated: 2026-11-19 03:52 UTC*
 
-**8 new role(s)** since last run · 11 total in last 24h
+**6 new role(s)** since last run · 13 total in last 24h
 
-### [Ajudante De Carga E Descarga](https://br.indeed.com/viewjob?jk=7dec99e237b2db89) — Empresa do Varejo
-- 📍 **Location:** Queimados, RJ, Brazil
-- 💰 **Salary:** $1855/mo
+### [AJUDANTE DE CARGA E DESCARGA - Centro (Vivian Festas)](https://br.indeed.com/viewjob?jk=00fc5cea779a44f5) — Jobbol
+- 📍 **Location:** Duque de Caxias, RJ, Brazil
+- 💰 **Salary:** $1963.33/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
+- 🕒 **Posted:** 2026-11-19
 
-### [Auxiliar Operacional](https://br.indeed.com/viewjob?jk=49272426365b309c) — Transrio
-- 📍 **Location:** Belford Roxo, RJ, Brazil
-- 💰 **Salary:** $1850/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [Estoquista/Repositor](https://br.indeed.com/viewjob?jk=5827d4c6b6878721) — coenge
+### [AUXILIAR DE LOGÍSTICA - JACAREPAGUÁ/RJ](https://br.indeed.com/viewjob?jk=7e15c0a32044db99) — Grupo Domingão
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2058–$2720.45/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-18
-
-### [Estoquista - Rio de Janeiro (Extra Natal)](https://br.indeed.com/viewjob?jk=d69c86d3e1faeada) — Osklen
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1800–$1917/mo
+- 💰 **Salary:** $2105.77/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-18
 
-### [Estoquista](https://br.indeed.com/viewjob?jk=038a409329b8437b) — Grupo Malupe
-- 📍 **Location:** Campo Grande, RJ, Brazil
-- 💰 **Salary:** $1621–$2921/mo
-- **Work mode:** On-site
-- **Job type:** parttime, fulltime, contract
-- 🕒 **Posted:** 2026-11-18
-
-### [Estoquista- Hub Logístico Jacarepaguá | Rio de Janeiro/RJ](https://br.indeed.com/viewjob?jk=8262f403b3bc3d9d) — Grupo Boticário
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-18
-
-### [ESTOQUISTA](https://br.indeed.com/viewjob?jk=5f4a30d487dd7806) — Grupo Roma Brasil
+### [Auxiliar Operacional de Logística | Nova Iguaçu - RJ](https://br.indeed.com/viewjob?jk=dc4deb7f37f25cf0) — BATERIAS MOURA
 - 📍 **Location:** Nova Iguaçu, RJ, Brazil
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-18
 
-### [Estoquista com Atendimento ao Cliente](https://br.indeed.com/viewjob?jk=8879428a74ddfb4b) — Revolution Comércio e Serviços de Eletrodomésticos Ltda.
-- 📍 **Location:** Curicica, RJ, Brazil
-- 💰 **Salary:** $1825–$2000/mo
+### [Estoquista - RJ](https://br.indeed.com/viewjob?jk=9dd7c56dbe01ac13) — Grupo LEV
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-18
+
+### [Estoquista de loja](https://br.indeed.com/viewjob?jk=845634d548c7d98e) — Star Brink Brinquedos
+- 📍 **Location:** São Gonçalo, RJ, Brazil
+- 💰 **Salary:** $1720/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-18
+
+### [Estoquista](https://br.indeed.com/viewjob?jk=91743a7e63554be9) — restaurante ipanema
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1518–$3000/mo
+- **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-18
