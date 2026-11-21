@@ -1,6 +1,11 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-21 11:49 UTC*
+*Last updated: 2026-11-21 21:12 UTC*
 
-**0 new role(s)** since last run · 3 total in last 24h
+**1 new role(s)** since last run · 1 total in last 24h
 
-No new roles since the last run.
+### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=1774c66391a00bf2) — Caderno Nacional
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $2000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-21
