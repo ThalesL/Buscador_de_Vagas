@@ -1,7 +1,45 @@
 {
-  "scraped_at": "2026-11-23 02:00 UTC",
-  "total": 0,
-  "new_count": 0,
-  "jobs": [],
-  "new_jobs": []
+  "scraped_at": "2026-11-23 11:20 UTC",
+  "total": 1,
+  "new_count": 1,
+  "jobs": [
+    {
+      "company": "BLUE FERRAGENS MATERIAL DE CONSTRUCAO LTDA",
+      "title": "Vendedor/Estoquista",
+      "location": "Barra da Tijuca, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=9e9bd90107a08413",
+      "direct_url": "",
+      "company_url": "",
+      "date_posted": "2026-11-23",
+      "description": "VENDEDOR E ESTOQUISTA DE LOJA DE MATERIAL DE CONTRUÇÃO.\n\nPagamento: a partir de R$1.800,00 por mês\n\nExperiência:\n\n* MATERIAL DE CONSTRUÇÃO (Obrigatório)\n\nLocal do trabalho: Presencial",
+      "salary": "$1800/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ],
+  "new_jobs": [
+    {
+      "company": "BLUE FERRAGENS MATERIAL DE CONSTRUCAO LTDA",
+      "title": "Vendedor/Estoquista",
+      "location": "Barra da Tijuca, RJ, Brazil",
+      "url": "https://br.indeed.com/viewjob?jk=9e9bd90107a08413",
+      "direct_url": "",
+      "company_url": "",
+      "date_posted": "2026-11-23",
+      "description": "VENDEDOR E ESTOQUISTA DE LOJA DE MATERIAL DE CONTRUÇÃO.\n\nPagamento: a partir de R$1.800,00 por mês\n\nExperiência:\n\n* MATERIAL DE CONSTRUÇÃO (Obrigatório)\n\nLocal do trabalho: Presencial",
+      "salary": "$1800/mo",
+      "salary_source": "direct_data",
+      "salary_currency": "BRL",
+      "job_type": "fulltime",
+      "is_remote": false,
+      "work_arrangement": "On-site",
+      "emails": "",
+      "ats": "Indeed"
+    }
+  ]
 }
