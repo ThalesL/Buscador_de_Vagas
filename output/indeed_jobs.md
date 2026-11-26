@@ -1,95 +1,75 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-25 23:48 UTC*
+*Last updated: 2026-11-26 08:55 UTC*
 
-**14 new role(s)** since last run · 16 total in last 24h
+**12 new role(s)** since last run · 25 total in last 24h
 
-### [Ajudante de caminhão](https://br.indeed.com/viewjob?jk=af07c82d52902faf) — Grupo Markat Engenharia
+### [Auxiliar de Expedição - Sem experiência - (Grupo Dime)](https://br.indeed.com/viewjob?jk=cae063e674ac7ecf) — Caderno Nacional
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [ESTOQUISTA - Zona Sul - Sem experiência (Riofarma)](https://br.indeed.com/viewjob?jk=50c5bfc7f75b5a4c) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [AUXILIAR DE EXPEDIÇÃO - Irajá (Ideal Móveis Rio)](https://br.indeed.com/viewjob?jk=c84ebb4d46887bcf) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $2000/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [ESTOQUISTA - Tijuca (Papel craft)](https://br.indeed.com/viewjob?jk=367a05d616912908) — Jobbol
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [AUXILIAR OPERACIONAL](https://br.indeed.com/viewjob?jk=891e15c9daa6567a) — Orizon Valorização de Resíduos
 - 📍 **Location:** São Gonçalo, RJ, Brazil
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [Auxiliar de Expedição - Sem experiência](https://br.indeed.com/viewjob?jk=1ce509edbd7116df) — Caderno Nacional
+### [Estoquista](https://br.indeed.com/viewjob?jk=ce273e75567acb1a) — MR. CAT
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1621–$2500/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [AUXILIAR DE DEPÓSITO - Engenho de Dentro - Sem experiência (Grupo Kriativa)](https://br.indeed.com/viewjob?jk=b8af992516f677f1) — Jobbol
+### [Estoquista](https://br.indeed.com/viewjob?jk=8ef0c0f318fb5c99) — MENDES TALENT TERCEIRIZACAO E RECURSOS HUMANOS EIRELI
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1917/mo
+- 💰 **Salary:** $1621–$1825/mo
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [AUXILIAR OPERACIONAL (Grupo Mega Rio)](https://br.indeed.com/viewjob?jk=f8c3d6d5faec58ab) — Jobbol
-- 📍 **Location:** Belford Roxo, RJ, Brazil
-- 💰 **Salary:** $1851/mo
-- **Work mode:** On-site
-- **Job type:** fulltime, internship
-- 🕒 **Posted:** 2026-11-25
-
-### [AUXILIAR DE DEPÓSITO - Engenho de Dentro (Grupo Kriativa)](https://br.indeed.com/viewjob?jk=0929fa8fe849fe20) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1917/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [Auxiliar de Logística](https://br.indeed.com/viewjob?jk=65cca111a1b5beb1) — DISPROL
-- 📍 **Location:** Piraí, RJ, Brazil
-- 💰 **Salary:** $1532–$1700/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-25
-
-### [ESTOQUISTA - Jacarepaguá (Nutrimed Rio)](https://br.indeed.com/viewjob?jk=4022ed62fc88bc88) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2153.80/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [ESTOQUISTA PCD - Penha, Barra ou Recreio - Sem experiência (Altese Peças Automotivas)](https://br.indeed.com/viewjob?jk=2e3e2497358c2241) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1825/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
-
-### [ESTOQUISTA - Niterói (Perfil RH)](https://br.indeed.com/viewjob?jk=13c0603030d31db3) — Jobbol
+### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=a5cec358ab66f1dd) — Caderno Nacional
 - 📍 **Location:** Niterói, RJ, Brazil
 - 💰 **Salary:** $1700/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [ajudante de motorista carga e descarga](https://br.indeed.com/viewjob?jk=183cc762161b0925) — a t serviços
-- 📍 **Location:** Penha, RJ, Brazil
-- 💰 **Salary:** $1839.37/mo
+### [ANIMALE | ESTOQUISTA | ICARAI 1](https://br.indeed.com/viewjob?jk=772d549d388d6545) — ANIMALE
+- 📍 **Location:** Niterói, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [Estoquista/Conferente](https://br.indeed.com/viewjob?jk=393f9afb6e513298) — CAJOTA SERVIÇOS E NEGÓCIOS EMPRESARIAIS
-- 📍 **Location:** Barra da Tijuca, RJ, Brazil
-- 💰 **Salary:** $1700/mo
+### [Estoquista | Niterói | RJ](https://br.indeed.com/viewjob?jk=19b6c636e16682ef) — DRESS TO
+- 📍 **Location:** Niterói, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [Estoquista (Fábrica Têxtil)](https://br.indeed.com/viewjob?jk=3e6b444e0855bd89) — OSKLEN
+### [ESTOQUISTA - (vaga exclusiva para pessoa com deficiência) - JPGA](https://br.indeed.com/viewjob?jk=0faae523201817f9) — Coca Cola Andina
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-25
+- 🕒 **Posted:** 2026-11-26
 
-### [Estoquista - Copacabana - Salário R$ 2.000,00](https://br.indeed.com/viewjob?jk=25d2abe4bd309d14) — Supermercados Zona Sul
+### [Estoquista - Copacabana - Salário R$ 2.000,00](https://br.indeed.com/viewjob?jk=07673ebaf51943dd) — Supermercados Zona Sul
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - 💰 **Salary:** $2000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-25
-
-### [Vaga de estoquista em Copacabana](https://br.indeed.com/viewjob?jk=f86481efa8c68eec) — segredo dos pes
-- 📍 **Location:** Copacabana, RJ, Brazil
-- 💰 **Salary:** $1700–$2000/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-25
