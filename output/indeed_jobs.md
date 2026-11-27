@@ -1,75 +1,70 @@
 # 🟦 Indeed — Buscador de Vagas Roles
-*Last updated: 2026-11-26 08:55 UTC*
+*Last updated: 2026-11-27 00:03 UTC*
 
-**12 new role(s)** since last run · 25 total in last 24h
+**10 new role(s)** since last run · 20 total in last 24h
 
-### [Auxiliar de Expedição - Sem experiência - (Grupo Dime)](https://br.indeed.com/viewjob?jk=cae063e674ac7ecf) — Caderno Nacional
+### [Operador Logístico 3 - Queimados, RJ - Mercado Livre](https://br.indeed.com/viewjob?jk=5c195904751d963b) — Mercado Livre
+- 📍 **Location:** Queimados, RJ, Brazil
+- 💰 **Salary:** $5076–$5429/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [Auxiliar de Depósito](https://br.indeed.com/viewjob?jk=18ede3dfc4503d50) — Embrasul Comércio de Produtos Veterinários Ltda
+- 📍 **Location:** Duque de Caxias, RJ, Brazil
+- 💰 **Salary:** $2000–$2400/mo
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-26
+
+### [PARQUE JURITI/RJ - AUXILIAR OPERACIONAL - J&T EXPRESS](https://br.indeed.com/viewjob?jk=8f5b57162ee7594f) — GNX Group
+- 📍 **Location:** São João de Meriti, RJ, Brazil
+- 💰 **Salary:** $1775/mo
+- **Work mode:** On-site
+- **Job type:** contract
+- 🕒 **Posted:** 2026-11-26
+
+### [ESTOQUISTA (Loja Três)](https://br.indeed.com/viewjob?jk=272538b2b3774a95) — Jobbol
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [ESTOQUISTA - Zona Sul - Sem experiência (Riofarma)](https://br.indeed.com/viewjob?jk=50c5bfc7f75b5a4c) — Jobbol
+### [Conferente](https://br.indeed.com/viewjob?jk=b224ba28fbaffed6) — LDB Transportes de Cargas Ltda
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $2087.69/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-26
+
+### [Conferente](https://br.indeed.com/viewjob?jk=c21eb421649881fb) — TAFF BRASIL
+- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+- 💰 **Salary:** $1621/mo
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-26
+
+### [Estoquista](https://br.indeed.com/viewjob?jk=b293f20cef594828) — Walter Coiffeur
+- 📍 **Location:** Jacarepaguá, RJ, Brazil
+- 💰 **Salary:** $1861.80/mo
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [AUXILIAR DE EXPEDIÇÃO - Irajá (Ideal Móveis Rio)](https://br.indeed.com/viewjob?jk=c84ebb4d46887bcf) — Jobbol
+### [Estoquista](https://br.indeed.com/viewjob?jk=0c002675ced17e22) — Clínica Sozo
 - 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2000/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [ESTOQUISTA - Tijuca (Papel craft)](https://br.indeed.com/viewjob?jk=367a05d616912908) — Jobbol
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [AUXILIAR OPERACIONAL](https://br.indeed.com/viewjob?jk=891e15c9daa6567a) — Orizon Valorização de Resíduos
-- 📍 **Location:** São Gonçalo, RJ, Brazil
+- 💰 **Salary:** $1800–$1900/mo
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-26
 
-### [Estoquista](https://br.indeed.com/viewjob?jk=ce273e75567acb1a) — MR. CAT
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $1621–$2500/mo
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-26
-
-### [Estoquista](https://br.indeed.com/viewjob?jk=8ef0c0f318fb5c99) — MENDES TALENT TERCEIRIZACAO E RECURSOS HUMANOS EIRELI
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
+### [Estoquista](https://br.indeed.com/viewjob?jk=7170144494ad107a) — della e delle
+- 📍 **Location:** Zona Norte do Rio de Janeiro, RJ, Brazil
 - 💰 **Salary:** $1621–$1825/mo
 - **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
-
-### [Estoquista - Diversos benefícios](https://br.indeed.com/viewjob?jk=a5cec358ab66f1dd) — Caderno Nacional
-- 📍 **Location:** Niterói, RJ, Brazil
-- 💰 **Salary:** $1700/mo
-- **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
 
-### [ANIMALE | ESTOQUISTA | ICARAI 1](https://br.indeed.com/viewjob?jk=772d549d388d6545) — ANIMALE
-- 📍 **Location:** Niterói, RJ, Brazil
+### [Estoquista/Repositor](https://br.indeed.com/viewjob?jk=d876dc9d40acdaf6) — LMG PRINCIPAL SERVIÇO E APOIO ADMINISTRATIVO LTDA
+- 📍 **Location:** Laranjeiras, RJ, Brazil
+- 💰 **Salary:** $1621–$2200/mo
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-26
-
-### [Estoquista | Niterói | RJ](https://br.indeed.com/viewjob?jk=19b6c636e16682ef) — DRESS TO
-- 📍 **Location:** Niterói, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
-
-### [ESTOQUISTA - (vaga exclusiva para pessoa com deficiência) - JPGA](https://br.indeed.com/viewjob?jk=0faae523201817f9) — Coca Cola Andina
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-26
-
-### [Estoquista - Copacabana - Salário R$ 2.000,00](https://br.indeed.com/viewjob?jk=07673ebaf51943dd) — Supermercados Zona Sul
-- 📍 **Location:** Rio de Janeiro, RJ, Brazil
-- 💰 **Salary:** $2000/mo
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-25
